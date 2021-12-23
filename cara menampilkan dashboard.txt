@@ -1,0 +1,4 @@
+Tata cara membuka web aplikasi:
+1. Buka folder dist
+2. Buka file index.html
+3. Halaman dashboard akan tampil
